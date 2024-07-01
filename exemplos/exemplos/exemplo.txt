@@ -1,0 +1,7 @@
+cadeia x, y, z;
+x = "Olá";
+y = x + " mundo!";
+z = y;
+print(x);
+print(y);
+print(z);
